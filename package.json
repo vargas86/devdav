@@ -1,0 +1,22 @@
+{
+  "name": "devdav",
+  "version": "1.0.0",
+  "description": "Deploy with Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vargas86/devdav.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vargas86/devdav/issues"
+  },
+  "homepage": "https://github.com/vargas86/devdav#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
